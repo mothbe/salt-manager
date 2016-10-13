@@ -1,0 +1,7 @@
+url: 'https://github.com/'
+
+modules:
+  'mothbe/puppet-collectd':
+    branch: tsdb
+  'mothbe/openssh-formula':
+    branch: master 
